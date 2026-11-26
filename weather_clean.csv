@@ -1,0 +1,144 @@
+City,Country,Condition,Temperature_F,Wind_mph,Time,Temperature_Category
+Accra,Ghana,Passing clouds. Warm,82.0,3.0,Wed 3:28 am,Hot
+Addis Ababa,Ethiopia,Passing clouds. Cool,54.0,7.0,Wed 6:28 am,Cool
+Adelaide,Australia,Pleasantly warm,84.0,4.0,Wed 1:58 pm,Hot
+Algiers,Algeria,Passing clouds. Mild,68.0,22.0,Wed 4:28 am,Warm
+Almaty,Kazakhstan,Fog. Quite cool,43.0,3.0,Wed 8:28 am,Cold
+Amman,Jordan,Passing clouds. Cool,55.0,3.0,Wed 6:28 am,Cool
+Amsterdam,Netherlands,Clear. Chilly,32.0,15.0,Wed 4:28 am,Freezing
+Anadyr,Russia,Light snow. Overcast,4.0,16.0,Wed 3:28 pm,Freezing
+Anchorage,USA,Overcast. Cold,19.0,3.0,Tue 6:28 pm,Freezing
+Ankara,Turkey,Passing clouds. Chilly,32.0,10.0,Wed 6:28 am,Freezing
+Antananarivo,Madagascar,Passing clouds. Cool,61.0,3.0,Wed 6:28 am,Cool
+Asuncion,Paraguay,Passing clouds. Mild,73.0,6.0,Wed 12:28 am,Warm
+Athens,Greece,Cool,54.0,,Wed 5:28 am,Cool
+Atlanta,USA,Overcast. Refreshingly cool,56.0,10.0,Tue 10:28 pm,Cool
+Auckland,New Zealand,Partly sunny. Mild,72.0,3.0,Wed 4:28 pm,Warm
+Baghdad,Iraq,Weather data unavailable,,,Wed 6:28 am,
+Bangkok,Thailand,Passing clouds. Warm,88.0,2.0,Wed 10:28 am,Hot
+Barcelona,Spain,Passing clouds. Cool,54.0,6.0,Wed 4:28 am,Cool
+Beijing,China,Sunny. Chilly,37.0,1.0,Wed 11:28 am,Cold
+Beirut,Lebanon,Clear. Cool,54.0,18.0,Wed 5:28 am,Cool
+Belgrade,Serbia,Clear. Chilly,28.0,7.0,Wed 4:28 am,Freezing
+Bengaluru,India,Broken clouds. Mild,72.0,6.0,Wed 8:58 am,Warm
+Berlin,Germany,Overcast. Chilly,34.0,5.0,Wed 4:28 am,Cold
+Bogota,Colombia,Passing clouds. Cool,57.0,6.0,Tue 10:28 pm,Cool
+Boston,USA,Passing clouds. Chilly,37.0,10.0,Tue 10:28 pm,Cold
+Brasilia,Brazil,Passing clouds. Mild,70.0,3.0,Wed 12:28 am,Warm
+Brisbane,Australia,Mild,75.0,1.0,Wed 1:28 pm,Warm
+Brussels,Belgium,Clear. Chilly,30.0,6.0,Wed 4:28 am,Freezing
+Bucharest,Romania,Clear. Chilly,30.0,8.0,Wed 5:28 am,Freezing
+Budapest,Hungary,Clear. Cold,21.0,1.0,Wed 4:28 am,Freezing
+Buenos Aires,Argentina,Clear. Mild,64.0,18.0,Wed 12:28 am,Cool
+Cairo,Egypt,Passing clouds. Mild,66.0,7.0,Wed 5:28 am,Warm
+Calgary,Canada,Passing clouds. Chilly,32.0,6.0,Tue 9:28 pm,Freezing
+Canberra,Australia,Overcast. Mild,70.0,9.0,Wed 2:28 pm,Warm
+Cape Town,South Africa,Clear. Cool,61.0,15.0,Wed 5:28 am,Cool
+Caracas,Venezuela,Passing clouds. Warm,81.0,3.0,Tue 11:28 pm,Hot
+Casablanca,Morocco,Mild,64.0,7.0,Wed 3:28 am,Cool
+Chicago,USA,Partly cloudy. Chilly,39.0,9.0,Tue 9:28 pm,Cold
+Copenhagen,Denmark,Overcast. Chilly,32.0,9.0,Wed 4:28 am,Freezing
+Dallas,USA,Passing clouds. Quite cool,43.0,13.0,Tue 9:28 pm,Cold
+Dar es Salaam,Tanzania,Fog. Mild,75.0,3.0,Wed 6:28 am,Warm
+Darwin,Australia,Passing clouds. Extremely hot,93.0,8.0,Wed 12:58 pm,Very Hot
+Denver,USA,Passing clouds. Chilly,37.0,6.0,Tue 8:28 pm,Cold
+Detroit,USA,Passing clouds. Chilly,31.0,6.0,Tue 10:28 pm,Freezing
+Dhaka,Bangladesh,Clear. Mild,68.0,0.0,Wed 9:28 am,Warm
+Doha,Qatar,Clear. Mild,75.0,5.0,Wed 6:28 am,Warm
+Dubai,United Arab Emirates,Clear. Mild,75.0,3.0,Wed 7:28 am,Warm
+Dublin,Ireland,Light rain. Passing clouds,45.0,5.0,Wed 3:28 am,Cold
+Edmonton,Canada,Passing clouds. Cold,25.0,13.0,Tue 9:28 pm,Freezing
+Frankfurt,Germany,Clear. Chilly,28.0,9.0,Wed 4:28 am,Freezing
+Guatemala City,Guatemala,Partly cloudy. Mild,68.0,0.0,Tue 9:28 pm,Warm
+Halifax,Canada,Passing clouds. Chilly,27.0,16.0,Tue 11:28 pm,Freezing
+Hanoi,Vietnam,Overcast. Mild,63.0,9.0,Wed 10:28 am,Cool
+Harare,Zimbabwe,Overcast. Mild,67.0,4.0,Wed 5:28 am,Warm
+Havana,Cuba,Light rain. Partly cloudy,73.0,2.0,Tue 11:28 pm,Warm
+Helsinki,Finland,Passing clouds. Chilly,32.0,13.0,Wed 5:28 am,Freezing
+Hong Kong,Hong Kong,Passing clouds. Mild,66.0,13.0,Wed 11:28 am,Warm
+Honolulu,USA,Scattered clouds. Warm,80.0,6.0,Tue 5:28 pm,Warm
+Houston,USA,Partly cloudy. Cool,48.0,13.0,Tue 9:28 pm,Cold
+Indianapolis,USA,Overcast. Chilly,36.0,22.0,Tue 10:28 pm,Cold
+Islamabad,Pakistan,Scattered clouds. Mild,68.0,9.0,Wed 8:28 am,Warm
+Istanbul,Turkey,Clear. Chilly,37.0,6.0,Wed 6:28 am,Cold
+Jakarta,Indonesia,Partly sunny. Hot,89.0,4.0,Wed 10:28 am,Hot
+Jerusalem,Israel,Cool,57.0,1.0,Wed 5:28 am,Cool
+Johannesburg,South Africa,Mild,64.0,12.0,Wed 5:28 am,Cool
+Kabul,Afghanistan,Haze. Cool,52.0,0.0,Wed 7:58 am,Cool
+Karachi,Pakistan,Clear. Mild,63.0,3.0,Wed 8:28 am,Cool
+Kathmandu,Nepal,Fog. Cool,54.0,0.0,Wed 9:13 am,Cool
+Khartoum,Sudan,Clear. Mild,70.0,8.0,Wed 5:28 am,Warm
+Kingston,Jamaica,Warm,84.0,25.0,Tue 10:28 pm,Hot
+Kinshasa,Congo Dem. Rep.,Passing clouds. Mild,73.0,1.0,Wed 4:28 am,Warm
+Kiritimati,Kiribati,Broken clouds. Warm,88.0,5.0,Wed 5:28 pm,Hot
+Kolkata,India,Fog. Mild,73.0,6.0,Wed 8:58 am,Warm
+Kuala Lumpur,Malaysia,Passing clouds. Warm,82.0,1.0,Wed 11:28 am,Hot
+Kuwait City,Kuwait,Fog. Mild,63.0,9.0,Wed 6:28 am,Cool
+Kyiv,Ukraine,Light snow. Low clouds,32.0,2.0,Wed 5:28 am,Freezing
+La Paz,Bolivia,Overcast. Cool,47.0,16.0,Tue 11:28 pm,Cold
+Lagos,Nigeria,Overcast. Warm,82.0,9.0,Wed 4:28 am,Hot
+Lahore,Pakistan,Fog. Cool,55.0,2.0,Wed 8:28 am,Cool
+Las Vegas,USA,Partly sunny. Refreshingly cool,61.0,9.0,Tue 7:28 pm,Cool
+Lima,Peru,Overcast. Warm,79.0,27.0,Tue 10:28 pm,Warm
+Lisbon,Portugal,Passing clouds. Cool,55.0,7.0,Wed 3:28 am,Cool
+London,United Kingdom,Overcast. Chilly,39.0,8.0,Wed 3:28 am,Cold
+Los Angeles,USA,Clear. Mild,67.0,5.0,Tue 7:28 pm,Warm
+Madrid,Spain,Low clouds. Cool,46.0,17.0,Wed 4:28 am,Cold
+Managua,Nicaragua,Passing clouds. Hot,90.0,7.0,Tue 9:28 pm,Hot
+Manila,Philippines,Light rain. Overcast,79.0,2.0,Wed 11:28 am,Warm
+Melbourne,Australia,Passing clouds. Mild,75.0,16.0,Wed 2:28 pm,Warm
+Mexico City,Mexico,Mostly cloudy. Cool,55.0,5.0,Tue 9:28 pm,Cool
+Miami,USA,Mostly cloudy. Warm,78.0,12.0,Tue 10:28 pm,Warm
+Minneapolis,USA,Passing clouds. Chilly,31.0,11.0,Tue 9:28 pm,Freezing
+Minsk,Belarus,Passing clouds. Chilly,30.0,10.0,Wed 6:28 am,Freezing
+Montevideo,Uruguay,Clear. Mild,63.0,14.0,Wed 12:28 am,Cool
+Montréal,Canada,Clear. Chilly,28.0,5.0,Tue 10:28 pm,Freezing
+Moscow,Russia,Snow. Overcast,30.0,7.0,Wed 6:28 am,Freezing
+Mumbai,India,Clear. Pleasantly warm,84.0,7.0,Wed 8:58 am,Hot
+Nairobi,Kenya,Partly cloudy. Mild,64.0,8.0,Wed 6:28 am,Cool
+Nassau,Bahamas,Passing clouds. Warm,77.0,8.0,Tue 10:28 pm,Warm
+New Delhi,India,Fog. Cool,52.0,0.0,Wed 8:58 am,Cool
+New Orleans,USA,Overcast. Cool,57.0,21.0,Tue 9:28 pm,Cool
+New York,USA,Clear. Quite cool,41.0,6.0,Tue 10:28 pm,Cold
+Oslo,Norway,Overcast. Cold,25.0,7.0,Wed 4:28 am,Freezing
+Ottawa,Canada,Clear. Cold,23.0,5.0,Tue 10:28 pm,Freezing
+Paris,France,Passing clouds. Chilly,39.0,8.0,Wed 4:28 am,Cold
+Perth,Australia,Partly sunny. Mild,70.0,8.0,Wed 11:28 am,Warm
+Philadelphia,USA,Clear. Quite cool,41.0,10.0,Tue 10:28 pm,Cold
+Phoenix,USA,Passing clouds. Mild,65.0,0.0,Tue 8:28 pm,Cool
+Prague,Czechia,Passing clouds. Cold,25.0,5.0,Wed 4:28 am,Freezing
+Reykjavik,Iceland,Sprinkles. Passing clouds,39.0,9.0,Wed 3:28 am,Cold
+Rio de Janeiro,Brazil,Passing clouds. Warm,82.0,8.0,Wed 12:28 am,Hot
+Riyadh,Saudi Arabia,Clear. Cool,57.0,0.0,Wed 6:28 am,Cool
+Rome,Italy,Clear. Cool,57.0,12.0,Wed 4:28 am,Cool
+Salt Lake City,USA,Passing clouds. Chilly,40.0,3.0,Tue 8:28 pm,Cold
+San Francisco,USA,Mostly cloudy. Cool,59.0,6.0,Tue 7:28 pm,Cool
+San Juan,Puerto Rico,Passing clouds. Warm,80.0,5.0,Tue 11:28 pm,Warm
+San Salvador,El Salvador,Passing clouds. Warm,77.0,9.0,Tue 9:28 pm,Warm
+Santiago,Chile,Clear. Mild,70.0,9.0,Wed 12:28 am,Warm
+Santo Domingo,Dominican Republic,Passing clouds. Warm,81.0,4.0,Tue 11:28 pm,Hot
+São Paulo,Brazil,Light rain. Passing clouds,72.0,6.0,Wed 12:28 am,Warm
+Seattle,USA,Overcast. Cool,55.0,5.0,Tue 7:28 pm,Cool
+Seoul,South Korea,Passing clouds. Quite cool,43.0,7.0,Wed 12:28 pm,Cold
+Shanghai,China,Passing clouds. Cool,54.0,6.0,Wed 11:28 am,Cool
+Singapore,Singapore,Partly sunny. Warm,88.0,5.0,Wed 11:28 am,Hot
+Sofia,Bulgaria,Clear. Cold,24.0,2.0,Wed 5:28 am,Freezing
+St. John's,Canada,Light rain. Mostly cloudy,41.0,12.0,Tue 11:58 pm,Cold
+Stockholm,Sweden,Passing clouds. Chilly,32.0,8.0,Wed 4:28 am,Freezing
+Suva,Fiji,Partly sunny. Warm,83.0,27.0,Wed 3:28 pm,Hot
+Sydney,Australia,Broken clouds. Mild,70.0,14.0,Wed 2:28 pm,Warm
+Taipei,Taiwan,Partly sunny. Mild,68.0,20.0,Wed 11:28 am,Warm
+Tallinn,Estonia,Overcast. Chilly,36.0,12.0,Wed 5:28 am,Cold
+Tashkent,Uzbekistan,Clear. Cool,47.0,2.0,Wed 8:28 am,Cold
+Tegucigalpa,Honduras,Passing clouds. Mild,75.0,8.0,Tue 9:28 pm,Warm
+Tehran,Iran,Weather data unavailable,,,Wed 6:58 am,
+Tokyo,Japan,Passing clouds. Refreshingly cool,55.0,8.0,Wed 12:28 pm,Cool
+Toronto,Canada,Passing clouds. Chilly,28.0,7.0,Tue 10:28 pm,Freezing
+Vancouver,Canada,Mostly cloudy. Cool,52.0,20.0,Tue 8:28 pm,Cool
+Vienna,Austria,Passing clouds. Chilly,27.0,9.0,Wed 4:28 am,Freezing
+Warsaw,Poland,Passing clouds. Chilly,32.0,12.0,Wed 4:29 am,Freezing
+Washington DC,USA,Passing clouds. Quite cool,41.0,6.0,Tue 10:29 pm,Cold
+Winnipeg,Canada,Chilly,27.0,3.0,Tue 10:29 pm,Freezing
+Yangon,Myanmar,Clear. Warm,84.0,6.0,Wed 9:59 am,Hot
+Zagreb,Croatia,Overcast. Chilly,36.0,3.0,Wed 4:29 am,Cold
+Zürich,Switzerland,Overcast. Chilly,32.0,5.0,Wed 4:29 am,Freezing

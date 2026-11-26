@@ -1,0 +1,145 @@
+City,Country,Condition,Temperature,Wind,Time
+Accra,Ghana,Passing clouds. Warm,82 °F,3 mph,Wed 3:28 am
+Addis Ababa,Ethiopia,Passing clouds. Cool,54 °F,7 mph,Wed 6:28 am
+Adelaide,Australia,Pleasantly warm,84 °F,4 mph,Wed 1:58 pm
+Algiers,Algeria,Passing clouds. Mild,68 °F,22 mph,Wed 4:28 am
+Almaty,Kazakhstan,Fog. Quite cool,43 °F,3 mph,Wed 8:28 am
+Amman,Jordan,Passing clouds. Cool,55 °F,3 mph,Wed 6:28 am
+Amsterdam,Netherlands,Clear. Chilly,32 °F,15 mph,Wed 4:28 am
+Anadyr,Russia,Light snow. Overcast,4 °F,16 mph,Wed 3:28 pm
+Anchorage,USA,Overcast. Cold,19 °F,3 mph,Tue 6:28 pm
+Ankara,Turkey,Passing clouds. Chilly,32 °F,10 mph,Wed 6:28 am
+Antananarivo,Madagascar,Passing clouds. Cool,61 °F,3 mph,Wed 6:28 am
+Asuncion,Paraguay,Passing clouds. Mild,73 °F,6 mph,Wed 12:28 am
+Athens,Greece,Cool,54 °F,"?
+Not available",Wed 5:28 am
+Atlanta,USA,Overcast. Refreshingly cool,56 °F,10 mph,Tue 10:28 pm
+Auckland,New Zealand,Partly sunny. Mild,72 °F,3 mph,Wed 4:28 pm
+Baghdad,Iraq,Weather data unavailable,,,Wed 6:28 am
+Bangkok,Thailand,Passing clouds. Warm,88 °F,2 mph,Wed 10:28 am
+Barcelona,Spain,Passing clouds. Cool,54 °F,6 mph,Wed 4:28 am
+Beijing,China,Sunny. Chilly,37 °F,1 mph,Wed 11:28 am
+Beirut,Lebanon,Clear. Cool,54 °F,18 mph,Wed 5:28 am
+Belgrade,Serbia,Clear. Chilly,28 °F,7 mph,Wed 4:28 am
+Bengaluru,India,Broken clouds. Mild,72 °F,6 mph,Wed 8:58 am
+Berlin,Germany,Overcast. Chilly,34 °F,5 mph,Wed 4:28 am
+Bogota,Colombia,Passing clouds. Cool,57 °F,6 mph,Tue 10:28 pm
+Boston,USA,Passing clouds. Chilly,37 °F,10 mph,Tue 10:28 pm
+Brasilia,Brazil,Passing clouds. Mild,70 °F,3 mph,Wed 12:28 am
+Brisbane,Australia,Mild,75 °F,1 mph,Wed 1:28 pm
+Brussels,Belgium,Clear. Chilly,30 °F,6 mph,Wed 4:28 am
+Bucharest,Romania,Clear. Chilly,30 °F,8 mph,Wed 5:28 am
+Budapest,Hungary,Clear. Cold,21 °F,1 mph,Wed 4:28 am
+Buenos Aires,Argentina,Clear. Mild,64 °F,18 mph,Wed 12:28 am
+Cairo,Egypt,Passing clouds. Mild,66 °F,7 mph,Wed 5:28 am
+Calgary,Canada,Passing clouds. Chilly,32 °F,6 mph,Tue 9:28 pm
+Canberra,Australia,Overcast. Mild,70 °F,9 mph,Wed 2:28 pm
+Cape Town,South Africa,Clear. Cool,61 °F,15 mph,Wed 5:28 am
+Caracas,Venezuela,Passing clouds. Warm,81 °F,3 mph,Tue 11:28 pm
+Casablanca,Morocco,Mild,64 °F,7 mph,Wed 3:28 am
+Chicago,USA,Partly cloudy. Chilly,39 °F,9 mph,Tue 9:28 pm
+Copenhagen,Denmark,Overcast. Chilly,32 °F,9 mph,Wed 4:28 am
+Dallas,USA,Passing clouds. Quite cool,43 °F,13 mph,Tue 9:28 pm
+Dar es Salaam,Tanzania,Fog. Mild,75 °F,3 mph,Wed 6:28 am
+Darwin,Australia,Passing clouds. Extremely hot,93 °F,8 mph,Wed 12:58 pm
+Denver,USA,Passing clouds. Chilly,37 °F,6 mph,Tue 8:28 pm
+Detroit,USA,Passing clouds. Chilly,31 °F,6 mph,Tue 10:28 pm
+Dhaka,Bangladesh,Clear. Mild,68 °F,0 mph,Wed 9:28 am
+Doha,Qatar,Clear. Mild,75 °F,5 mph,Wed 6:28 am
+Dubai,United Arab Emirates,Clear. Mild,75 °F,3 mph,Wed 7:28 am
+Dublin,Ireland,Light rain. Passing clouds,45 °F,5 mph,Wed 3:28 am
+Edmonton,Canada,Passing clouds. Cold,25 °F,13 mph,Tue 9:28 pm
+Frankfurt,Germany,Clear. Chilly,28 °F,9 mph,Wed 4:28 am
+Guatemala City,Guatemala,Partly cloudy. Mild,68 °F,0 mph,Tue 9:28 pm
+Halifax,Canada,Passing clouds. Chilly,27 °F,16 mph,Tue 11:28 pm
+Hanoi,Vietnam,Overcast. Mild,63 °F,9 mph,Wed 10:28 am
+Harare,Zimbabwe,Overcast. Mild,67 °F,4 mph,Wed 5:28 am
+Havana,Cuba,Light rain. Partly cloudy,73 °F,2 mph,Tue 11:28 pm
+Helsinki,Finland,Passing clouds. Chilly,32 °F,13 mph,Wed 5:28 am
+Hong Kong,Hong Kong,Passing clouds. Mild,66 °F,13 mph,Wed 11:28 am
+Honolulu,USA,Scattered clouds. Warm,80 °F,6 mph,Tue 5:28 pm
+Houston,USA,Partly cloudy. Cool,48 °F,13 mph,Tue 9:28 pm
+Indianapolis,USA,Overcast. Chilly,36 °F,22 mph,Tue 10:28 pm
+Islamabad,Pakistan,Scattered clouds. Mild,68 °F,9 mph,Wed 8:28 am
+Istanbul,Turkey,Clear. Chilly,37 °F,6 mph,Wed 6:28 am
+Jakarta,Indonesia,Partly sunny. Hot,89 °F,4 mph,Wed 10:28 am
+Jerusalem,Israel,Cool,57 °F,1 mph,Wed 5:28 am
+Johannesburg,South Africa,Mild,64 °F,12 mph,Wed 5:28 am
+Kabul,Afghanistan,Haze. Cool,52 °F,0 mph,Wed 7:58 am
+Karachi,Pakistan,Clear. Mild,63 °F,3 mph,Wed 8:28 am
+Kathmandu,Nepal,Fog. Cool,54 °F,0 mph,Wed 9:13 am
+Khartoum,Sudan,Clear. Mild,70 °F,8 mph,Wed 5:28 am
+Kingston,Jamaica,Warm,84 °F,25 mph,Tue 10:28 pm
+Kinshasa,Congo Dem. Rep.,Passing clouds. Mild,73 °F,1 mph,Wed 4:28 am
+Kiritimati,Kiribati,Broken clouds. Warm,88 °F,5 mph,Wed 5:28 pm
+Kolkata,India,Fog. Mild,73 °F,6 mph,Wed 8:58 am
+Kuala Lumpur,Malaysia,Passing clouds. Warm,82 °F,1 mph,Wed 11:28 am
+Kuwait City,Kuwait,Fog. Mild,63 °F,9 mph,Wed 6:28 am
+Kyiv,Ukraine,Light snow. Low clouds,32 °F,2 mph,Wed 5:28 am
+La Paz,Bolivia,Overcast. Cool,47 °F,16 mph,Tue 11:28 pm
+Lagos,Nigeria,Overcast. Warm,82 °F,9 mph,Wed 4:28 am
+Lahore,Pakistan,Fog. Cool,55 °F,2 mph,Wed 8:28 am
+Las Vegas,USA,Partly sunny. Refreshingly cool,61 °F,9 mph,Tue 7:28 pm
+Lima,Peru,Overcast. Warm,79 °F,27 mph,Tue 10:28 pm
+Lisbon,Portugal,Passing clouds. Cool,55 °F,7 mph,Wed 3:28 am
+London,United Kingdom,Overcast. Chilly,39 °F,8 mph,Wed 3:28 am
+Los Angeles,USA,Clear. Mild,67 °F,5 mph,Tue 7:28 pm
+Madrid,Spain,Low clouds. Cool,46 °F,17 mph,Wed 4:28 am
+Managua,Nicaragua,Passing clouds. Hot,90 °F,7 mph,Tue 9:28 pm
+Manila,Philippines,Light rain. Overcast,79 °F,2 mph,Wed 11:28 am
+Melbourne,Australia,Passing clouds. Mild,75 °F,16 mph,Wed 2:28 pm
+Mexico City,Mexico,Mostly cloudy. Cool,55 °F,5 mph,Tue 9:28 pm
+Miami,USA,Mostly cloudy. Warm,78 °F,12 mph,Tue 10:28 pm
+Minneapolis,USA,Passing clouds. Chilly,31 °F,11 mph,Tue 9:28 pm
+Minsk,Belarus,Passing clouds. Chilly,30 °F,10 mph,Wed 6:28 am
+Montevideo,Uruguay,Clear. Mild,63 °F,14 mph,Wed 12:28 am
+Montréal,Canada,Clear. Chilly,28 °F,5 mph,Tue 10:28 pm
+Moscow,Russia,Snow. Overcast,30 °F,7 mph,Wed 6:28 am
+Mumbai,India,Clear. Pleasantly warm,84 °F,7 mph,Wed 8:58 am
+Nairobi,Kenya,Partly cloudy. Mild,64 °F,8 mph,Wed 6:28 am
+Nassau,Bahamas,Passing clouds. Warm,77 °F,8 mph,Tue 10:28 pm
+New Delhi,India,Fog. Cool,52 °F,0 mph,Wed 8:58 am
+New Orleans,USA,Overcast. Cool,57 °F,21 mph,Tue 9:28 pm
+New York,USA,Clear. Quite cool,41 °F,6 mph,Tue 10:28 pm
+Oslo,Norway,Overcast. Cold,25 °F,7 mph,Wed 4:28 am
+Ottawa,Canada,Clear. Cold,23 °F,5 mph,Tue 10:28 pm
+Paris,France,Passing clouds. Chilly,39 °F,8 mph,Wed 4:28 am
+Perth,Australia,Partly sunny. Mild,70 °F,8 mph,Wed 11:28 am
+Philadelphia,USA,Clear. Quite cool,41 °F,10 mph,Tue 10:28 pm
+Phoenix,USA,Passing clouds. Mild,65 °F,0 mph,Tue 8:28 pm
+Prague,Czechia,Passing clouds. Cold,25 °F,5 mph,Wed 4:28 am
+Reykjavik,Iceland,Sprinkles. Passing clouds,39 °F,9 mph,Wed 3:28 am
+Rio de Janeiro,Brazil,Passing clouds. Warm,82 °F,8 mph,Wed 12:28 am
+Riyadh,Saudi Arabia,Clear. Cool,57 °F,0 mph,Wed 6:28 am
+Rome,Italy,Clear. Cool,57 °F,12 mph,Wed 4:28 am
+Salt Lake City,USA,Passing clouds. Chilly,40 °F,3 mph,Tue 8:28 pm
+San Francisco,USA,Mostly cloudy. Cool,59 °F,6 mph,Tue 7:28 pm
+San Juan,Puerto Rico,Passing clouds. Warm,80 °F,5 mph,Tue 11:28 pm
+San Salvador,El Salvador,Passing clouds. Warm,77 °F,9 mph,Tue 9:28 pm
+Santiago,Chile,Clear. Mild,70 °F,9 mph,Wed 12:28 am
+Santo Domingo,Dominican Republic,Passing clouds. Warm,81 °F,4 mph,Tue 11:28 pm
+São Paulo,Brazil,Light rain. Passing clouds,72 °F,6 mph,Wed 12:28 am
+Seattle,USA,Overcast. Cool,55 °F,5 mph,Tue 7:28 pm
+Seoul,South Korea,Passing clouds. Quite cool,43 °F,7 mph,Wed 12:28 pm
+Shanghai,China,Passing clouds. Cool,54 °F,6 mph,Wed 11:28 am
+Singapore,Singapore,Partly sunny. Warm,88 °F,5 mph,Wed 11:28 am
+Sofia,Bulgaria,Clear. Cold,24 °F,2 mph,Wed 5:28 am
+St. John's,Canada,Light rain. Mostly cloudy,41 °F,12 mph,Tue 11:58 pm
+Stockholm,Sweden,Passing clouds. Chilly,32 °F,8 mph,Wed 4:28 am
+Suva,Fiji,Partly sunny. Warm,83 °F,27 mph,Wed 3:28 pm
+Sydney,Australia,Broken clouds. Mild,70 °F,14 mph,Wed 2:28 pm
+Taipei,Taiwan,Partly sunny. Mild,68 °F,20 mph,Wed 11:28 am
+Tallinn,Estonia,Overcast. Chilly,36 °F,12 mph,Wed 5:28 am
+Tashkent,Uzbekistan,Clear. Cool,47 °F,2 mph,Wed 8:28 am
+Tegucigalpa,Honduras,Passing clouds. Mild,75 °F,8 mph,Tue 9:28 pm
+Tehran,Iran,Weather data unavailable,,,Wed 6:58 am
+Tokyo,Japan,Passing clouds. Refreshingly cool,55 °F,8 mph,Wed 12:28 pm
+Toronto,Canada,Passing clouds. Chilly,28 °F,7 mph,Tue 10:28 pm
+Vancouver,Canada,Mostly cloudy. Cool,52 °F,20 mph,Tue 8:28 pm
+Vienna,Austria,Passing clouds. Chilly,27 °F,9 mph,Wed 4:28 am
+Warsaw,Poland,Passing clouds. Chilly,32 °F,12 mph,Wed 4:29 am
+Washington DC,USA,Passing clouds. Quite cool,41 °F,6 mph,Tue 10:29 pm
+Winnipeg,Canada,Chilly,27 °F,3 mph,Tue 10:29 pm
+Yangon,Myanmar,Clear. Warm,84 °F,6 mph,Wed 9:59 am
+Zagreb,Croatia,Overcast. Chilly,36 °F,3 mph,Wed 4:29 am
+Zürich,Switzerland,Overcast. Chilly,32 °F,5 mph,Wed 4:29 am
